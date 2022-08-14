@@ -12,4 +12,6 @@ wget https://raw.githubusercontent.com/zvikasdongre/Jexactyl-Installation-Script
 ```
 That's It! Now just answer questions as asked and your panel should be installed!
 
+_Star this repository if you like the script! ;)_
+
 > If you are having some issue, feel free to contact me on my discord, `Flame Kitten#1101`.
